@@ -1,6 +1,6 @@
 # tutoriais
 
-Bem-vind@ aos tutoriais do LabIC-UFF.
+Bem-vind@ aos tutoriais do [LabIC-UFF](http://labic.ic.uff.br).
 Aqui você encontrará uma coletânea de tutoriais interessantes para acesso remoto, etc.
 
 ## Tutoriais
