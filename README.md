@@ -9,6 +9,7 @@ Aqui você encontrará uma coletânea de tutoriais interessantes para acesso rem
    * Artigo originalmente escrito para o [PPG-CComp UERJ](https://ccomp.ime.uerj.br), adaptado com mais informações.
 - [Geração de Chaves SSH](./docs/Geracao-Chaves-SSH.pdf) - Autor: Anderson Zudio
 - [Instalação WSL para Windows 10](./docs/Instalando-WSL.pdf) - Autor: Anderson Zudio
+- [Configuração VPN](./docs/Manual-VPN-LABIC-UFF.odt) - Autor: Felipe Carmo
 
 ## Normas de Acesso VPN/SSH do LabIC-UFF
 
