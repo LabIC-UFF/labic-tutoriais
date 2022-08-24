@@ -30,8 +30,8 @@ Para gerar a chave pública SSH, veja o tutorial da próxima seção.
 
 - [Acesso remoto SSH e tunel SOCKS](./docs/PPG-CCOMP-Acesso-Remoto-Firefox-com-PuTTY.pdf) - Autores: Igor M. Coelho, Anderson Zudio, Fellipe Pessanha - Última versão: 10/10/2020 - Licença Apache 2.0
    * Artigo originalmente escrito para o [PPG-CComp UERJ](https://ccomp.ime.uerj.br), adaptado com mais informações.
-- [Geração de Chaves SSH]([./docs/Geracao-Chaves-SSH.pdf](https://docs.google.com/document/d/1oJu6o9uhnNy4I7phsMRH9HU_h8hkI3pgROZtGL5nPqY/edit?usp=sharing)) - Autor: Anderson Zudio
-- [Instalação WSL2]([./docs/Instalando-WSL.pdf](https://docs.google.com/document/d/10z-zEuzExjXIfGfxo_4cHAhkhyN91-Vcy_n6-TyGYuQ/edit?usp=sharing)) - Autor: Anderson Zudio
+- [Geração de Chaves SSH](https://docs.google.com/document/d/1oJu6o9uhnNy4I7phsMRH9HU_h8hkI3pgROZtGL5nPqY/edit?usp=sharing) - Autor: Anderson Zudio
+- [Instalação WSL2](https://docs.google.com/document/d/10z-zEuzExjXIfGfxo_4cHAhkhyN91-Vcy_n6-TyGYuQ/edit?usp=sharing) - Autor: Anderson Zudio
 - [Configuração VPN](./docs/Manual-VPN-LABIC-UFF.odt) - Autor: Felipe Carmo
 
 ## Política de Privacidade
